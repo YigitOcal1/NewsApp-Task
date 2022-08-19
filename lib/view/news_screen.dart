@@ -61,11 +61,6 @@ class _NewsScreenState extends State<NewsScreen> {
     setState(() {});
   }
 
-  void loadArticles(String keyword, int pageNumber) async {
-    final articleViewModel =
-        Provider.of<ArticleViewmodel>(context, listen: false);
-  }
-
   @override
   void dispose() {
     // TODO: implement dispose
