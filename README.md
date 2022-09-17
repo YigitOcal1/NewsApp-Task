@@ -1,6 +1,6 @@
 # NewsApp
 
-A News App created by using [NewsAPI](https://newsapi.org/) and [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) architectural pattern.
+A News App created by using [NewsAPI](https://newsapi.org/). [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) Architectural Pattern and Clean Architecture Principals are applied. [Dio](https://pub.dev/packages/dio) and http packages are used to fetching data. Provider and ChangeNotifier are used to managing states.
 
 ## Screens
 
